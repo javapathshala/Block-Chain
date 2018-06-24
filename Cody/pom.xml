@@ -8,15 +8,15 @@
     <name>Block Chain Project</name>
     <description>JP Block Chain Parent Project</description>
     <modules>
-        <module>basic</module>        
+        <module>basic</module>
     </modules>
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!--<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <version.org.springframework.boot>2.0.1.RELEASE</version.org.springframework.boot>
         <spring-cloud.version>Finchley.RC1</spring-cloud.version>
     </properties>
 
-    
+
 </project>
